@@ -1,0 +1,28 @@
+{
+  "name": "bob-ross",
+  "version": "1.0.0",
+  "description": "Bob Ross Color Palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azz/bob-ross.git"
+  },
+  "keywords": [
+    "Bob",
+    "Ross",
+    "Color",
+    "Palette"
+  ],
+  "author": "Lucas Azzola <Lucas.Azzola@iress.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azz/bob-ross/issues"
+  },
+  "homepage": "https://github.com/azz/bob-ross#readme",
+  "dependencies": {
+    "bob-ross": "^1.0.0"
+  }
+}
